@@ -1,0 +1,21 @@
+
+Primary research question: Does the influenza nasal spray (FluMist) provide the same amount of protection as the injected vaccination among children?
+
+Seconday research question: Does the protection provided by FluMist vary by age group among children?
+
+Confounders: Siblings
+	     Size of household
+	     Grandparents
+	     BMI
+             Days missed due to illness/injury, past 12 m
+	     FSBALANC (Could not afford to eat balanced meals)
+	     Age (?)
+	
+	     date of most recent vaccine
+	     date of next most recent flu vaccine
+	     Administration mode
+
+Criteria
+	Children
+	Indicated yes or no for flushot past 12 months
+	Indicated method of flu shot if answer was yes to the previous question
